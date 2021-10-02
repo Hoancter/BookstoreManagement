@@ -7,7 +7,7 @@ Participants:
 - Member: [Lương Gia Hân - 19521468]
 
 
-Task management table: [here](https://trello.com/b/N0dTGGkV) [Update later]
+Task management table: [here](https://trello.com/b/hMML2tfA/project-plan) 
 
 UI / UX prototype: [here](https://www.figma.com/community/file/1017274846862703022) [Update later]
 
