@@ -2,9 +2,9 @@
 
 Participants:
 
-- Leader: [Name - ID]
-- Member: [Name - ID]
-- Member: [Name - ID]
+- Leader: [Nguyễn Thị Chí Lâm - 19521740]
+- Member: [Phạm Khánh Hòa - 19521519]
+- Member: [Lương Gia Hân - 19521468]
 
 
 Task management table: [here](https://trello.com/b/N0dTGGkV) [Replace by your public board later]
